@@ -1,4 +1,4 @@
-### Hi there 👋, Adil Yağız Akyüz
+### Hello 👋 I am Adil Yağız Akyüz
 #### Front-End Developer
 Hello, I am Adil Yağız Akyüz. I am a second year student of Computer Programming at Kocaeli Health and Technology University. I started getting interested in software in my senior year of high school and I mainly work on front-end development.
 
